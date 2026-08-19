@@ -16,8 +16,10 @@ A First-Person Rail Shooter where you circle enemy targets and take them down wi
 - Save-Load System 
 - UI System.
 
-## Technology
+## Tools
 - Unity
 - C#
 - Blender
 - GIMP
+
+---
