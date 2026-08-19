@@ -1,7 +1,7 @@
 # Project1 - Gunner 101
 
 ## About
-A First-Person Rail Shooter where you circle enemy targets and take them down with mounted weapons.
+A First-Person Rail Shooter where you circle enemy targets and take them down with mounted weapons. This is a small project created for game jam.
 
 ## Playable Build
 [Play the game here](https://thundermobgames.itch.io/gunner-101)
